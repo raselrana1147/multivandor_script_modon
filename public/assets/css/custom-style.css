@@ -1,0 +1,9 @@
+/*your custom css goes here*/
+
+.calculation-area{
+	margin:20px;
+}
+.calculation-area span{
+	padding: 20px;
+    font-size: 1rem;
+}
